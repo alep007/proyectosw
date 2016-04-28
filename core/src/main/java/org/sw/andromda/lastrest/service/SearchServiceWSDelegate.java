@@ -5,7 +5,7 @@
  * MODEL CLASS: AndroMDAModel::org.sw.andromda.lastrest::service::SearchService
  * STEREOTYPE:  Service
  * STEREOTYPE:  WebService
-*/
+ */
 package org.sw.andromda.lastrest.service;
 
 import java.util.List;
@@ -14,40 +14,36 @@ import org.sw.andromda.lastrest.vo.SearchResultVO;
 
 //import org.slf4j.Logger;
 //import org.slf4j.LoggerFactory;
-
 /**
- * WebService Service Endpoint Implementation delegate for the SearchService service.
- * 
+ * WebService Service Endpoint Implementation delegate for the SearchService
+ * service.
+ *
  */
-
-public class SearchServiceWSDelegate
-{
+public class SearchServiceWSDelegate {
    // private static final Logger LOG = LoggerFactory.getLogger(SearchServiceWSDelegate.class);
-   // private static final String className = "SearchServiceWSDelegate";
+    // private static final String className = "SearchServiceWSDelegate";
 
     /**
      * Constructor
      */
-    public SearchServiceWSDelegate()
-    {
+    public SearchServiceWSDelegate() {
         //Documented empty code block - avoid compiler warning
     }
 
-   /**
-    * Invokes the indexDocument service method on SearchService.
-    * 
-    * @param documents DocumentVO multiplicity=0..-1
-    * @return indexDocumentResponse Boolean
-    */
-    public Boolean indexDocument
-    (
-        List<DocumentVO> documents
-    )
-    {
+    /**
+     * Invokes the indexDocument service method on SearchService.
+     *
+     * @param documents DocumentVO multiplicity=0..-1
+     * @return indexDocumentResponse Boolean
+     */
+    public Boolean indexDocument(
+            List<DocumentVO> documents
+    ) {
+
         // Populate method wrapper object so all parameters can be logged and transformed at once
         // Transform input parameters to domain request object
         /*Boolean rtn =*/ IndexDocumentImpl.indexDocumentTransformInput(
-            documents
+                documents
         );
 
         //TODO: Implement service operation
@@ -57,27 +53,84 @@ public class SearchServiceWSDelegate
         return rtn;
     }
 
-   /**
-    * Invokes the performSearch service method on SearchService.
-    * 
-    * @param queryTerm datatype String multiplicity=1..1
-    * @return performSearchResponse SearchResultVO
-    */
-    public SearchResultVO performSearch
-    (
-        String queryTerm
-    )
-    {
+    /**
+     * Invokes the performSearch service method on SearchService.
+     *
+     * @param queryTerm datatype String multiplicity=1..1
+     * @return performSearchResponse SearchResultVO
+     */
+    public SearchResultVO performSearch(
+            String queryTerm
+    ) {
+
         // Populate method wrapper object so all parameters can be logged and transformed at once
         // Transform input parameters to domain request object
         /*SearchResultVO rtn =*/ PerformSearchImpl.performSearchTransformInput(
-            queryTerm
+                queryTerm
         );
 
         //TODO: Implement service operation
         //throw new UnsupportedOperationException("Service SearchService.performSearch not implemented.");
         // Dummy return value implementation with default values, modify Impl class.
-        SearchResultVO rtn = PerformSearchImpl.performSearchTransformResponse(/* Domain response to be transformed to service response */);
-        return rtn;
+        SearchResultVO searchResult = new SearchResultVO();
+
+        DocumentVO document1 = new DocumentVO();
+
+        document1.setId("MA147LL/A");
+
+        document1.setName("Apple 60 GB iPod with Video Playback Black");
+
+        document1.setInStock(Boolean.TRUE);
+
+        document1.setPrice(Double.valueOf(399.0));
+
+        document1.getFeatures().add("iTunes, Podcasts, Audiobooks");
+
+        document1.getFeatures().add("Stores up to 15,000 songs, 25,000 photos, or 150 hours of video");
+
+        document1.getFeatures().add("2.5-inch, 320x240 color TFT LCD display with LED backlight");
+
+        document1.getFeatures().add("Plays AAC, MP3, WAV, AIFF, Audible, Apple Lossless, H.264 video");
+
+        document1.getFeatures().add("Notes, Calendar, Phone book, Hold button, Date display, "
+                + "Photo wallet, Built-in games, JPEG photo playback, Upgradeable "
+                + "firmware, USB 2.0 compatibility, Playback speed control, "
+                + "Rechargeable capability, Battery level indication");
+
+        DocumentVO document2 = new DocumentVO();
+
+        document2.setId("6H500F0");
+
+        document2.setName("Maxtor DiamondMax 11 - hard drive - 500 GB - SATA-300");
+
+        document2.setInStock(Boolean.FALSE);
+
+        document2.setPrice(Double.valueOf(350.0));
+
+        document2.getFeatures().add("SATA 3.0Gb/s, NCQ");
+
+        document2.getFeatures().add("8.5ms seek");
+
+        document2.getFeatures().add("16MB cache");
+
+        DocumentVO document3 = new DocumentVO();
+
+        document3.setId("IW-02");
+
+        document3.setName("iPod &amp;amp; iPod Mini USB 2.0 Cable");
+
+        document3.setInStock(Boolean.TRUE);
+
+        document3.setPrice(Double.valueOf(11.5));
+
+        document3.getFeatures().add("car power adapter for iPod, white");
+
+        searchResult.getDocuments().add(document1);
+
+        searchResult.getDocuments().add(document2);
+
+        searchResult.getDocuments().add(document3);
+
+        return searchResult;
     }
 }
