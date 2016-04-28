@@ -1,0 +1,4 @@
+     [echo] running wsgen for each generated webservice class
+    [mkdir] Created dir: D:\MDA\lastrest\core\target\src\main\resources
+    [mkdir] Created dir: D:\MDA\lastrest\CXF\target\src\main\java
+    [mkdir] Created dir: D:\MDA\lastrest\webservice\target\src\main\java

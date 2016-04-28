@@ -1,0 +1,293 @@
+2016-04-28 01:37:13,932 INFO  [AndroMDA] - discovering namespaces -
+2016-04-28 01:37:14,052 INFO  [AndroMDA] found namespace --> 'emf-uml22'
+2016-04-28 01:37:14,052 INFO  [AndroMDA]   +  registering component 'repository'
+2016-04-28 01:37:14,097 INFO  [AndroMDA]   +  registering component 'metafacades'
+2016-04-28 01:37:14,211 INFO  [AndroMDA]   +  registering component 'profile'
+2016-04-28 01:37:14,220 INFO  [AndroMDA] found namespace --> 'hibernate'
+2016-04-28 01:37:14,220 INFO  [AndroMDA]   +  registering component 'cartridge'
+2016-04-28 01:37:14,261 INFO  [AndroMDA]   +  registering component 'metafacades'
+2016-04-28 01:37:14,288 INFO  [AndroMDA]   +  registering component 'profile'
+2016-04-28 01:37:14,293 INFO  [AndroMDA] found namespace --> 'java'
+2016-04-28 01:37:14,293 INFO  [AndroMDA]   +  registering component 'cartridge'
+2016-04-28 01:37:14,305 INFO  [AndroMDA]   +  registering component 'profile'
+2016-04-28 01:37:14,308 INFO  [AndroMDA]   +  registering component 'metafacades'
+2016-04-28 01:37:14,314 INFO  [AndroMDA] found namespace --> 'netBeansMDR'
+2016-04-28 01:37:14,314 INFO  [AndroMDA]   +  registering component 'repository'
+2016-04-28 01:37:14,375 INFO  [AndroMDA] found namespace --> 'spring'
+2016-04-28 01:37:14,376 INFO  [AndroMDA]   +  registering component 'cartridge'
+2016-04-28 01:37:14,498 INFO  [AndroMDA]   +  registering component 'metafacades'
+2016-04-28 01:37:14,533 INFO  [AndroMDA]   +  registering component 'profile'
+2016-04-28 01:37:14,542 INFO  [AndroMDA] found namespace --> 'uml-1.4'
+2016-04-28 01:37:14,542 INFO  [AndroMDA]   +  registering component 'metafacades'
+2016-04-28 01:37:14,614 INFO  [AndroMDA]   +  registering component 'profile'
+2016-04-28 01:37:14,618 INFO  [AndroMDA] found namespace --> 'validation'
+2016-04-28 01:37:14,619 INFO  [AndroMDA]   +  registering component 'translation-library'
+2016-04-28 01:37:14,697 INFO  [AndroMDA] found namespace --> 'webservice'
+2016-04-28 01:37:14,697 INFO  [AndroMDA]   +  registering component 'cartridge'
+2016-04-28 01:37:14,716 INFO  [AndroMDA]   +  registering component 'metafacades'
+2016-04-28 01:37:14,745 INFO  [AndroMDA]   +  registering component 'profile'
+2016-04-28 01:37:15,943 INFO  [AndroMDA] - core initialization complete: 2.19[s] -
+2016-04-28 01:37:15,953 INFO  [AndroMDA] loading model --> 'file:D:/MDA/lastrest/mda/src/main/uml/lastrest.uml'
+2016-04-28 01:37:15,964 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/lastrest.uml' 
+2016-04-28 01:37:16,223 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/andromda-service.profile.uml' 
+2016-04-28 01:37:16,352 INFO  [AndroMDA] referenced model --> 'jar:file:/C:/Users/jose%20mejia/.m2/repository/org/eclipse/uml2/org.eclipse.uml2.uml.resources/3.1.0.v201005031530/org.eclipse.uml2.uml.resources-3.1.0.v201005031530.jar!/profiles/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w' 
+2016-04-28 01:37:16,359 INFO  [AndroMDA] referenced model --> 'jar:file:/C:/Users/jose%20mejia/.m2/repository/org/eclipse/uml2/org.eclipse.uml2.uml.resources/3.1.0.v201005031530/org.eclipse.uml2.uml.resources-3.1.0.v201005031530.jar!/profiles/Standard.profile.uml#_0' 
+2016-04-28 01:37:16,370 INFO  [AndroMDA] referenced model --> 'jar:file:/C:/Users/jose%20mejia/.m2/repository/org/eclipse/uml2/org.eclipse.uml2.uml.resources/3.1.0.v201005031530/org.eclipse.uml2.uml.resources-3.1.0.v201005031530.jar!/profiles/Standard.profile.uml' 
+2016-04-28 01:37:16,465 INFO  [AndroMDA] referenced model --> 'jar:file:/C:/Users/jose%20mejia/.m2/repository/org/eclipse/uml2/org.eclipse.uml2.uml.resources/3.1.0.v201005031530/org.eclipse.uml2.uml.resources-3.1.0.v201005031530.jar!/profiles/Ecore.profile.uml#_z1OFcHjqEdy8S4Cr8Rc_NA' 
+2016-04-28 01:37:16,471 INFO  [AndroMDA] referenced model --> 'jar:file:/C:/Users/jose%20mejia/.m2/repository/org/eclipse/uml2/org.eclipse.uml2.uml.resources/3.1.0.v201005031530/org.eclipse.uml2.uml.resources-3.1.0.v201005031530.jar!/profiles/Ecore.profile.uml#_0' 
+2016-04-28 01:37:16,478 INFO  [AndroMDA] referenced model --> 'jar:file:/C:/Users/jose%20mejia/.m2/repository/org/eclipse/uml2/org.eclipse.uml2.uml.resources/3.1.0.v201005031530/org.eclipse.uml2.uml.resources-3.1.0.v201005031530.jar!/profiles/Ecore.profile.uml' 
+2016-04-28 01:37:16,630 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/andromda-xml.profile.uml' 
+2016-04-28 01:37:16,650 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/andromda-common.profile.uml' 
+2016-04-28 01:37:16,699 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/UML_Standard_Profile.MagicDraw_Profile.profile.uml' 
+2016-04-28 01:37:16,969 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/UML_Standard_Profile.MagicDraw_Profile.DSL_Customization.profile.uml' 
+2016-04-28 01:37:17,159 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/UML_Standard_Profile.Validation_Profile.profile.uml' 
+2016-04-28 01:37:17,339 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/andromda-webservice.profile.uml' 
+2016-04-28 01:37:17,409 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/andromda-presentation.profile.uml' 
+2016-04-28 01:37:17,446 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/UML_Standard_Profile.StandardProfile.profile.uml' 
+2016-04-28 01:37:17,456 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/andromda-persistence.profile.uml' 
+2016-04-28 01:37:17,506 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/andromda-messaging.profile.uml' 
+2016-04-28 01:37:17,539 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/UML_Standard_Profile.StandardProfileL3.profile.uml' 
+2016-04-28 01:37:17,558 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/UML_Standard_Profile.MagicDraw_Profile.Traceability_customization.profile.uml' 
+2016-04-28 01:37:17,590 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/UML_Standard_Profile.Dependency_Matrix_Profile.profile.uml' 
+2016-04-28 01:37:17,615 INFO  [AndroMDA] referenced model --> 'file:/D:/MDA/lastrest/mda/src/main/uml/andromda-process.profile.uml' 
+2016-04-28 01:37:17,642 INFO  [AndroMDA] - loading complete: 1.695[s] -
+2016-04-28 01:37:17,642 INFO  [AndroMDA] - validating model -
+2016-04-28 01:37:18,169 INFO  [AndroMDA] - validation complete: 0.527[s] -
+2016-04-28 01:37:18,260 INFO  [AndroMDA] Processing cartridge spring on model D:/MDA/lastrest/mda/src/main/uml/lastrest.uml
+2016-04-28 01:37:18,262 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringServiceLocator.vsl with 1 metafacades from 2 model elements
+2016-04-28 01:37:18,334 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/ServiceLocator.java'
+2016-04-28 01:37:18,334 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringServiceLocator.vsl with 0 metafacades from 2 model elements
+2016-04-28 01:37:18,335 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/SpringServerTest.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,336 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/ThisBeanFactory.java.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,337 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/remoting/client/SpringClientServiceLocator.vsl with 0 metafacades from 2 model elements
+2016-04-28 01:37:18,338 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/SpringClientTest.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,338 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringClientExceptionHandlingAdvice.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,339 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringService.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,373 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/service/SearchService.java'
+2016-04-28 01:37:18,373 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringService.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,374 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringWebServiceDelegator.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,393 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/service/SearchServiceWSDelegator.java'
+2016-04-28 01:37:18,393 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringServiceBase.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,426 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/service/SearchServiceBase.java'
+2016-04-28 01:37:18,427 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringServiceBase.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,428 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringPrincipalStore.java.vsl with 1 metafacades from 2 model elements
+2016-04-28 01:37:18,436 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/PrincipalStore.java'
+2016-04-28 01:37:18,436 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringPrincipalStore.java.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,437 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'server' is not defined in namespace spring
+2016-04-28 01:37:18,438 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringServiceImpl.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,444 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringServiceImpl.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,445 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/DefaultServiceException.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,455 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/service/SearchServiceException.java'
+2016-04-28 01:37:18,455 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/DefaultServiceException.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,456 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringDao.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,456 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/SpringHibernateDaoBase.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,457 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/SpringHibernateDaoImpl.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,457 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/SpringHibernateDaoImpl.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,458 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/SpringSessionBean.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,466 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/SpringSessionRemote.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,467 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/SpringSessionRemoteHome.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,467 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/SpringSessionLocal.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,473 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/SpringSessionLocalHome.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,479 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/applicationContext.xml.vsl with 1 metafacades from 3 model elements
+2016-04-28 01:37:18,497 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/applicationContext.xml'
+2016-04-28 01:37:18,498 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/applicationContext-dataSource.xml.vsl with 1 metafacades from 2 model elements
+2016-04-28 01:37:18,503 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/applicationContext-localDataSource.xml.vsl with 1 metafacades from 2 model elements
+2016-04-28 01:37:18,509 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/applicationContext-localDataSource.xml'
+2016-04-28 01:37:18,510 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/applicationContext-testDataSource.xml.vsl with 1 metafacades from 2 model elements
+2016-04-28 01:37:18,514 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/src/test/resources/applicationContext-testDataSource.xml'
+2016-04-28 01:37:18,515 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/applicationContext-server.xml.vsl with 0 metafacades from 2 model elements
+2016-04-28 01:37:18,515 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/applicationContext-server.xml.vsl with 0 metafacades from 2 model elements
+2016-04-28 01:37:18,516 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/remoting/client/applicationContext-client.xml.vsl with 0 metafacades from 2 model elements
+2016-04-28 01:37:18,516 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/applicationContext-server-authentication.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,517 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/H2.java.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,530 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/test/java/org/andromda/dbtest/H2.java'
+2016-04-28 01:37:18,530 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/ehcache-server-authentication.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,531 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/AuthenticationDaoImpl.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,531 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/SpringMergeMappings.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,531 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/remoting/client/applicationContext-client-authentication.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,532 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/remoting/client/applicationContext-client.properties.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,532 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/osgi/applicationContext-osgi-export.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,536 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'osgi' is not defined in namespace spring
+2016-04-28 01:37:18,536 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/osgi/applicationContext-osgi-import.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,540 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'osgi' is not defined in namespace spring
+2016-04-28 01:37:18,541 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/web.xml.vsl with 0 metafacades from 4 model elements
+2016-04-28 01:37:18,542 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/applicationContext-remoteEjb.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,545 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/applicationContext-localEjb.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,549 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/ejb-jar.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,558 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/ejb-jar.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,559 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/jboss.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,562 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/jboss.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,563 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/beanRefFactory.xml.vsl with 1 metafacades from 4 model elements
+2016-04-28 01:37:18,568 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/beanRefFactory.xml'
+2016-04-28 01:37:18,569 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/serverTestBeanRefFactory.xml.vsl with 0 metafacades from 3 model elements
+2016-04-28 01:37:18,569 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/serverTestBeanRefFactory.properties.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,570 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/search/SearchParameter.java.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,580 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/SearchParameter.java'
+2016-04-28 01:37:18,581 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/search/Search.java.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,604 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/Search.java'
+2016-04-28 01:37:18,605 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/search/PropertySearch.java.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,636 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/PropertySearch.java'
+2016-04-28 01:37:18,641 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/andromda/spring/PaginationResult.java'
+2016-04-28 01:37:18,642 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/HibernateSearch.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,714 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/CriteriaSearch.java'
+2016-04-28 01:37:18,715 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/HibernateSearchProperties.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,725 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/CriteriaSearchProperties.java'
+2016-04-28 01:37:18,725 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/HibernateSearchConfiguration.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,730 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/CriteriaSearchConfiguration.java'
+2016-04-28 01:37:18,731 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/HibernateSearchParameter.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,743 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/CriteriaSearchParameter.java'
+2016-04-28 01:37:18,743 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/SearchCriteria.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,744 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/presentation/hibernate/OpenSessionInViewFilter.java.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,749 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'open-session-in-view' is not defined in namespace spring
+2016-04-28 01:37:18,757 INFO  [AndroMDA:spring] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/BeanLocator.java'
+2016-04-28 01:37:18,762 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'remoting-war-support' is not defined in namespace spring
+2016-04-28 01:37:18,765 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'remoting-war-support' is not defined in namespace spring
+2016-04-28 01:37:18,766 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/remoting/SpringRemotingWarMergeMappings.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,767 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/remoting/client/AuthenticatingHttpInvokerRequestExecutor.java.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,767 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/jms/applicationContext-jms.xml.vsl with 0 metafacades from 4 model elements
+2016-04-28 01:37:18,768 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/jms/MessageListener.java.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,768 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/applicationContext-manageable.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,768 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudServiceLocator.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,769 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudService.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,769 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudServiceBase.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,769 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudDao.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,770 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudDaoBase.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,770 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudValueObject.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,879 INFO  [AndroMDA] Processing cartridge hibernate on model D:/MDA/lastrest/mda/src/main/uml/lastrest.uml
+2016-04-28 01:37:18,879 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/HibernateEntity.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,880 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/HibernateEntityImpl.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,880 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/HibernateEntityImpl.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,880 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/HibernateEntityPK.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,881 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/HibernateEmbeddedValue.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,881 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/HibernateEmbeddedValueImpl.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,890 INFO  [AndroMDA:hibernate] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/andromda/persistence/hibernate/usertypes/HibernateByteBlobType.java'
+2016-04-28 01:37:18,896 INFO  [AndroMDA:hibernate] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/andromda/persistence/hibernate/usertypes/HibernateStringClobType.java'
+2016-04-28 01:37:18,897 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/ejb-jar.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,908 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2016-04-28 01:37:18,909 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/jboss.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,910 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2016-04-28 01:37:18,911 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/HibernateSessionEJBLocator.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,913 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2016-04-28 01:37:18,913 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/HibernateSessionBean.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,920 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2016-04-28 01:37:18,920 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/HibernateSessionBeanImpl.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,923 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-impls' is not defined in namespace hibernate
+2016-04-28 01:37:18,923 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/HibernateSession.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,928 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2016-04-28 01:37:18,928 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/HibernateSessionHome.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:18,930 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2016-04-28 01:37:18,931 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2016-04-28 01:37:18,931 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ehcache.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,931 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate3/ejb/HibernateEntityFactory.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,932 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/persistence.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,932 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate3/hibernate.cfg.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,932 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/test/persistence-test.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,932 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/test/hibernate-test.cfg.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,933 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate3/hibernate.hbm.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,933 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate3/HibernateEnumeration.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,933 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate3/usertypes/HibernateEnumType.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,933 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate2/ejb/HibernateEntityFactory.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,934 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate2/hibernate.cfg.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,934 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate2/hibernate.hbm.xml.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,934 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate2/HibernateEnumeration.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:18,939 INFO  [AndroMDA] Processing cartridge webservice on model D:/MDA/lastrest/mda/src/main/uml/lastrest.uml
+2016-04-28 01:37:18,970 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/jaxws-package-xsd.vsl with 2 metafacades from 1 model elements
+2016-04-28 01:37:19,013 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/jaxws-package-xsd.vsl with 2 metafacades from 1 model elements
+2016-04-28 01:37:19,024 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/main/webapp/wsdl/ref/xsd/service.lastrest.andromda.sw.org.xsd.ref'
+2016-04-28 01:37:19,036 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/main/webapp/wsdl/ref/xsd/vo.lastrest.andromda.sw.org.xsd.ref'
+2016-04-28 01:37:19,037 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/package-info.java.vsl with 2 metafacades from 1 model elements
+2016-04-28 01:37:19,039 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../common/target/src/main/java/org/sw/andromda/lastrest/service/package-info.java'
+2016-04-28 01:37:19,040 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../common/target/src/main/java/org/sw/andromda/lastrest/vo/package-info.java'
+2016-04-28 01:37:19,041 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/configuration/web.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,042 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/configuration/web.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,043 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/main/webapp/WEB-INF/ref/web.xml.ref'
+2016-04-28 01:37:19,044 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/cxf/jaxb_bindings.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,049 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/cxf/jaxb_bindings.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,050 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/main/webapp/wsdl/bindings/SearchService.xjb.ref'
+2016-04-28 01:37:19,051 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/cxf/buildWS.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,057 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/cxf/buildWS.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,060 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/buildWSNew.xml'
+2016-04-28 01:37:19,062 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/jaxws-wsdl.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,247 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/jaxws-wsdl.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,275 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/main/webapp/wsdl/ref/SearchService.wsdl.ref'
+2016-04-28 01:37:19,276 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/package-info.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,278 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../common/target/src/main/java/org/sw/andromda/lastrest/service/package-info.java'
+2016-04-28 01:37:19,278 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceInterface.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,295 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/service/SearchServiceSEI.java'
+2016-04-28 01:37:19,296 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceEndpoint.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,319 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/service/SearchServiceSEIImpl.java'
+2016-04-28 01:37:19,319 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceDelegate.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,327 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceDelegate.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,331 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../core/src/main/java/org/sw/andromda/lastrest/service/SearchServiceWSDelegate.java.ref'
+2016-04-28 01:37:19,332 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceSEIImplTest.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,339 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceSEIImplTest.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,344 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../core/src/test/java/org/sw/andromda/lastrest/service/SearchServiceSEIImplTest.java.ref'
+2016-04-28 01:37:19,345 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/MethodResponse.java.vsl with 2 metafacades from 1 model elements
+2016-04-28 01:37:19,355 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../common/target/src/main/java/org/sw/andromda/lastrest/service/PerformSearchResponse.java'
+2016-04-28 01:37:19,359 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../common/target/src/main/java/org/sw/andromda/lastrest/service/IndexDocumentResponse.java'
+2016-04-28 01:37:19,360 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/MethodRequest.java.vsl with 2 metafacades from 1 model elements
+2016-04-28 01:37:19,369 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../common/target/src/main/java/org/sw/andromda/lastrest/service/PerformSearch.java'
+2016-04-28 01:37:19,377 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../common/target/src/main/java/org/sw/andromda/lastrest/service/IndexDocument.java'
+2016-04-28 01:37:19,377 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceMethodImpl.java.vsl with 2 metafacades from 1 model elements
+2016-04-28 01:37:19,406 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceMethodImpl.java.vsl with 2 metafacades from 1 model elements
+2016-04-28 01:37:19,415 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../core/src/main/java/org/sw/andromda/lastrest/service/PerformSearchImpl.java.ref'
+2016-04-28 01:37:19,422 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../core/src/main/java/org/sw/andromda/lastrest/service/IndexDocumentImpl.java.ref'
+2016-04-28 01:37:19,423 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/cxf/WSClient.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,434 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/cxf/WSClient.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,440 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/test/java/org/sw/andromda/lastrest/service/test/SearchService_WSClient.java.ref'
+2016-04-28 01:37:19,441 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceClient.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,444 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceClient.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,446 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/test/java/org/sw/andromda/lastrest/service/SearchServiceSEIClient.java.ref'
+2016-04-28 01:37:19,447 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/JettyServer.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,449 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/JettyServer.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,450 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/test/java/JettyServer.java.ref'
+2016-04-28 01:37:19,451 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/cxf/WSClient.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,456 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/test/java/org/sw/andromda/lastrest/service/test/SearchService_WSClient.java.ref'
+2016-04-28 01:37:19,457 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/cxf/CXFTestClient.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,464 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/cxf/CXFTestClient.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,469 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/test/java/org/sw/andromda/lastrest/service/test/SearchServiceWSITCaseITCase.java.ref'
+2016-04-28 01:37:19,469 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/index.html.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,471 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/index.html.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,472 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/main/webapp/indexNew.html'
+2016-04-28 01:37:19,472 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/cxf/applicationContext-CXF.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,475 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/cxf/applicationContext-CXF.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,476 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/main/webapp/WEB-INF/ref/applicationContext-CXF.xml.ref'
+2016-04-28 01:37:19,477 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/cxf/cxf-client.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,479 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/cxf/cxf-client.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,479 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/test/java/cxf-client.xml.ref'
+2016-04-28 01:37:19,480 INFO  [AndroMDA:webservice] Output: 'file:/D:/MDA/lastrest/mda/../webservice/src/main/webapp/WEB-INF/jboss-web.xml'
+2016-04-28 01:37:19,480 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/wsdl/wrapped-wsdl.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,500 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/xfire/services.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,502 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/wsdl/wrapped-wsdl.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,508 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/axis2/axis2.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,513 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/axis2/services.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,514 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/wsdl/wrapped-wsdl.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,520 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/axis1/server-config.wsdd.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,526 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/axis1/wss4j/crypto.properties.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,527 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/axis1/WebServiceTest.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,530 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/axis1/WebServiceTestServiceLocator.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,531 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/axis1/WebServiceTestImpl.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,534 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/axis1/WebServiceTestImpl.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,538 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceEndpoint.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,546 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceInterface.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,553 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceDelegate.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,556 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/WebServiceDelegate.java.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,560 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/configuration/sun-jaxws.xml.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,561 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/jaxws-wsdl.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,588 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/webservice/jaxws/jaxws-xsd.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,612 INFO  [AndroMDA] Processing cartridge java on model D:/MDA/lastrest/mda/src/main/uml/lastrest.uml
+2016-04-28 01:37:19,612 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/Service.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,620 INFO  [AndroMDA:java] Output: 'file:/D:/MDA/lastrest/mda/../core/target/src/main/java/org/sw/andromda/lastrest/service/SearchService.java'
+2016-04-28 01:37:19,621 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/ServiceImpl.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,625 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/ServiceImpl.vsl with 1 metafacades from 1 model elements
+2016-04-28 01:37:19,627 INFO  [AndroMDA:java] Output: 'file:/D:/MDA/lastrest/mda/../core/src/main/java/org/sw/andromda/lastrest/service/SearchServiceImpl.java.ref'
+2016-04-28 01:37:19,628 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/ValueObject.vsl with 2 metafacades from 1 model elements
+2016-04-28 01:37:19,681 INFO  [AndroMDA:java] Output: 'file:/D:/MDA/lastrest/mda/../common/target/src/main/java/org/sw/andromda/lastrest/vo/DocumentVO.java'
+2016-04-28 01:37:19,696 INFO  [AndroMDA:java] Output: 'file:/D:/MDA/lastrest/mda/../common/target/src/main/java/org/sw/andromda/lastrest/vo/SearchResultVO.java'
+2016-04-28 01:37:19,697 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/ApplicationException.vsl with 0 metafacades from 2 model elements
+2016-04-28 01:37:19,697 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/UnexpectedException.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:19,698 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/Enumeration.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:19,698 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/TypeSafeEnumeration.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:19,698 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/Interface.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:19,699 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/InterfaceImpl.vsl with 0 metafacades from 1 model elements
+2016-04-28 01:37:19,700 INFO  [AndroMDA] completed model processing --> TIME: 3.757[s], RESOURCES WRITTEN: 88

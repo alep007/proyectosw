@@ -1,0 +1,34 @@
+     [echo] running wsgen for each generated webservice class
+    [mkdir] Created dir: D:\MDA\lastrest\common\src\main\java
+    [mkdir] Created dir: D:\MDA\lastrest\common\src\main\resources
+    [mkdir] Created dir: D:\MDA\lastrest\common\src\test\java
+    [mkdir] Created dir: D:\MDA\lastrest\common\src\test\resources
+    [mkdir] Created dir: D:\MDA\lastrest\common\target\classes
+    [mkdir] Created dir: D:\MDA\lastrest\common\target\src\main\java
+    [mkdir] Created dir: D:\MDA\lastrest\core\src\main\java
+    [mkdir] Created dir: D:\MDA\lastrest\core\src\main\resources
+    [mkdir] Created dir: D:\MDA\lastrest\core\src\test\java
+    [mkdir] Created dir: D:\MDA\lastrest\core\target\src\main\resources
+    [mkdir] Created dir: D:\MDA\lastrest\CXF\src\main\java
+    [mkdir] Created dir: D:\MDA\lastrest\CXF\src\main\resources
+    [mkdir] Created dir: D:\MDA\lastrest\CXF\src\test\java
+    [mkdir] Created dir: D:\MDA\lastrest\CXF\src\test\resources
+    [mkdir] Created dir: D:\MDA\lastrest\CXF\target\classes
+    [mkdir] Created dir: D:\MDA\lastrest\CXF\target\src\main\java
+    [mkdir] Created dir: D:\MDA\lastrest\CXF\src\main\webapp\WEB-INF\lib
+    [mkdir] Created dir: D:\MDA\lastrest\CXF\src\main\webapp\WEB-INF\wsdl
+    [mkdir] Created dir: D:\MDA\lastrest\CXF\src\main\webapp\WEB-INF\classes
+    [mkdir] Created dir: D:\MDA\lastrest\webservice\src\main\java
+    [mkdir] Created dir: D:\MDA\lastrest\webservice\src\main\resources
+    [mkdir] Created dir: D:\MDA\lastrest\webservice\src\test\resources
+    [mkdir] Created dir: D:\MDA\lastrest\webservice\target\classes
+    [mkdir] Created dir: D:\MDA\lastrest\webservice\target\src\main\java
+    [mkdir] Created dir: D:\MDA\lastrest\webservice\src\main\webapp\WEB-INF\lib
+    [mkdir] Created dir: D:\MDA\lastrest\webservice\src\main\webapp\WEB-INF\wsdl
+    [mkdir] Created dir: D:\MDA\lastrest\webservice\src\main\webapp\WEB-INF\classes
+     [copy] Copying 1 file to D:\MDA\lastrest\core\src\test\resources
+     [copy] Copying D:\MDA\lastrest\mda\log4j.xml to D:\MDA\lastrest\core\src\test\resources\log4j.xml
+     [copy] Copying 1 file to D:\MDA\lastrest\webservice\src\main\resources
+     [copy] Copying D:\MDA\lastrest\mda\log4j.xml to D:\MDA\lastrest\webservice\src\main\resources\log4j.xml
+     [copy] Copying 1 file to D:\MDA\lastrest\CXF\src\main\resources
+     [copy] Copying D:\MDA\lastrest\mda\log4j.xml to D:\MDA\lastrest\CXF\src\main\resources\log4j.xml
